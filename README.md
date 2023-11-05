@@ -20,8 +20,8 @@ export PATH=$PATH:/{your_path_folder}/Tutorial_HyperledgerFabric_BahasaIndonesia
 kemudian save denga `ctrl+s` dan exit `ctrl+x`
 
 Kemudian reboot system.
-========================================
 
+### Check Peers Config
 Untuk mengecheck peer telah terpasang dapat menjalankan code
 ```bash
 peer
