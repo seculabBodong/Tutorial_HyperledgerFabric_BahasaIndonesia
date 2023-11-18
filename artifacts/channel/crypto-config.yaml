@@ -36,7 +36,7 @@ PeerOrgs:
     EnableNodeOUs: true
 
     Template:
-      Count: 2
+      Count: 1
       SANS:
         - "localhost"
 
@@ -48,7 +48,7 @@ PeerOrgs:
     EnableNodeOUs: true
 
     Template:
-      Count: 2
+      Count: 1
       SANS:
         - "localhost"
 
